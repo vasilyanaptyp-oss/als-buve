@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://vasylian.com/als-buve/sitemap.xml
+Sitemap: https://alsbuve.lv/sitemap.xml
