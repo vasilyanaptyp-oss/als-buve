@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://alsbuve.lv/sitemap.xml
+Sitemap: https://www.alsbuve.lv/sitemap.xml
